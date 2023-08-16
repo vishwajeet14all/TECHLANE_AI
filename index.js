@@ -2,7 +2,7 @@ const setupTextarea = document.getElementById("setup-textarea");
 const setupInputContainer = document.getElementById("setup-input-container");
 const movieBossText = document.getElementById("movie-boss-text");
 
-const apiKey = "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";
+const apiKey = "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";
 const url = "https://api.openai.com/v1/chat/completions";
 
 document.getElementById("send-btn").addEventListener("click", () => {
